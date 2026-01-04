@@ -13,6 +13,7 @@ After completing this repository, learners are expected to be able to:
 
 # 📂 List of Material (Machine Learning Class Version)
 1. **Simple Linear Regression**
+2. **Multiple Linear Regression**
 
 # 🛠️ Tools & Libraries
 Main tools used in this class:
