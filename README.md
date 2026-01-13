@@ -14,6 +14,10 @@ After completing this repository, learners are expected to be able to:
 # 📂 List of Material (Machine Learning Class Version)
 1. **Simple Linear Regression**
 2. **Multiple Linear Regression**
+3. **Logistic Regression**
+4. **Multi-Class Classification**
+5. **Decision Tree Classifier**
+6. **Regression Trees**
 
 # 🛠️ Tools & Libraries
 Main tools used in this class:
