@@ -18,6 +18,10 @@ After completing this repository, learners are expected to be able to:
 4. **Multi-Class Classification**
 5. **Decision Tree Classifier**
 6. **Regression Trees**
+7. **Decision Tree and SVM**
+8. **K-Nearest Neighbors Classifier**
+9. **Random Forests & XGBoost**
+10. **K-Means Customer Segmentation**
 
 # 🛠️ Tools & Libraries
 Main tools used in this class:
